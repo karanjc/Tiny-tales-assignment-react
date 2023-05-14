@@ -16,6 +16,11 @@ After, it shows an error. So just click on the close button on top where error, 
 
 Now, histogram.csv file gets downloaded and you can view it to see the contents extracted from the given link.
 
+![Screenshot (803)](https://github.com/karanjc/Tiny-tales-assignment-react/assets/66589659/a8c6342f-898f-46e8-9083-b31669068820)
+
+![Screenshot (804)](https://github.com/karanjc/Tiny-tales-assignment-react/assets/66589659/8e4c3837-3088-4f87-aac6-5611df936965)
+
+
 
 
 
